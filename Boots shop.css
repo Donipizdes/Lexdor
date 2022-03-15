@@ -78,3 +78,8 @@ img, svg {
       background-color: rgba(61, 61, 161, 0.637);
       border-radius: 1rem;
   }
+
+.d-grid {
+      display: inline-block !important;
+}
+
